@@ -1,0 +1,13 @@
+#btn-clr {
+    background-color: rgb(10, 10, 10);
+    min-height: 40px;
+    width: 10%;
+    border-radius: 25px;
+    border-color: rgba(41, 41, 41, 0.26);
+    border-style: solid;
+    outline: none !important;
+    color: white;
+    text-align: center;
+    font-size: medium;
+    color: rgb(70, 70, 70);
+}

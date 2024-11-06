@@ -1,0 +1,14 @@
+/* Component imports */
+@import url(components/searchbar.css);
+@import url(components/button.css);
+
+body {
+    background-color: rgb(10, 10, 10);
+}
+
+
+
+#sbar::-moz-selection {
+    border-color: white;
+    border-style: solid;
+}

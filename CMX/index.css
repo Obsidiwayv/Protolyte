@@ -1,0 +1,6 @@
+@import url(move.css);
+@import url(spacer.css);
+
+.cen {
+    justify-items: center;
+}

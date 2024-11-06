@@ -1,0 +1,20 @@
+#sbar {
+    background-color: rgb(10, 10, 10);;
+    width: 40%;
+    border-width: 2px;
+    min-height: 40px;
+    border-radius: 20px;
+    border-color: rgba(41, 41, 41, 0.26);
+    border-style: solid;
+    outline: none !important;
+    color: white;
+    text-align: center;
+    font-size: large;
+    transition: box-shadow 1.0s ease-out;
+    color: rgb(70, 70, 70)
+}
+
+#sbar:focus {
+    box-shadow: 0 0 180px 2px rgb(54, 54, 54), 0 0 40px 2px rgb(133, 133, 133);
+    color: white;
+}
